@@ -1,6 +1,6 @@
 dependencies:
   build:
-    - python:3.5.0
+    - python:3.6.3
 
 build_targets:
   - name: default
